@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    color: rgb(0, 0, 10);
+    font-style: italic;
+}
+body{
+    background-color: aquamarine;
+    background-size: 700px 700px; 
+    background-repeat: no-repeat;
+    padding: 40px;
+
+}
+.mynav{
+    display: block;
+    float: right;
+}
+a{
+    color: black;
+}
